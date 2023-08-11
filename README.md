@@ -1,18 +1,21 @@
 <h1 align="center"> Machine Learning: classificação com SKLearn </h1>
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 ## :open_file_folder: Descrição do projeto 
-<p align="justify">
+<ul>
+    <li>Testes replicáveis, estratificacção e lendo dados da internet</li>
+    <li>Um projeto de baixa dimensionalidade e o baseline</li>
+    <li>Support Vector Machine e a não linearidade</li>
+   <li>Dummy classifiers e árvore de decisão</li>
+</ul>
 
-</p>
-
-## :dash: Layout
 
 ## :books: Linguagens, dependencias e libs utilizadas
 <div style="display: inline_block">
+     <img align="center" alt="Mateus-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>          
 
 ## :raising_hand: Autores
